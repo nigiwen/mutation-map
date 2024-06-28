@@ -8,20 +8,9 @@
 
 耐药突变 SVG 图表
 
-> **Note**:
-> Replace `mutation-map`, `耐药突变 SVG 图表` and `nigiwen` globally to use this template.
-
-## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/nigiwen/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/nigiwen/static/sponsors.svg'/>
-  </a>
-</p>
-
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/nigiwen)
+[MIT](./LICENSE) License © 2023-PRESENT [Nigi Wen](https://github.com/nigiwen)
 
 <!-- Badges -->
 
