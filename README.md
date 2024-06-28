@@ -20,7 +20,7 @@
 [npm-downloads-href]: https://npmjs.com/package/mutation-map
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/mutation-map?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=mutation-map
-[license-src]: https://img.shields.io/github/license/antfu/mutation-map.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/antfu/mutation-map/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/nigiwen/mutation-map.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/nigiwen/mutation-map/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/mutation-map
