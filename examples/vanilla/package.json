@@ -8,6 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mutation-map": "workspace:*"
+    "mutation-map": "^0.0.2"
   }
 }
