@@ -594,4 +594,4 @@ class MutationMap<T extends HTMLElement, Data extends { position: number, text: 
   }
 }
 
-export const createMutationMap = <T extends HTMLElement>(el: T) => new MutationMap(el)
+export const createMutationMap = <T extends HTMLElement, Data extends { position: number, text: string, isDRM: boolean, isUnusual: boolean }>(el: T) => new MutationMap<T, Data>(el)
