@@ -560,7 +560,7 @@ class MutationMap<T extends HTMLElement, Data extends { position: number, text: 
 
     const [leftD, rightD] = groupValues(this.#data, this.#interval)
 
-    const { offset: getLeftOffset, render: renderLeftMpa } = this.#renderLeftMpa(rightD[0])
+    const { offset: getLeftOffset, render: renderLeftMpa } = this.#renderLeftMpa(rightD[0] || [])
     const leftOffset = getLeftOffset(leftD)
     const leftHeight = maxConsecutiveNonZeroW(leftOffset)
 
