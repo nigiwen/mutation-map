@@ -204,7 +204,7 @@ class MutationMap<T extends HTMLElement, Data extends { position: number, text: 
     matrixG.append('text')
       .attr('x', 128)
       .attr('y', 39)
-      .attr('font-size', '16')
+      .attr('font-size', '16px')
       .attr('dominant-baseline', 'central')
       .attr('fill', this.#textConfig?.color || '#FFFFFF')
       .text(this.#textConfig?.text || '')
