@@ -1,7 +1,7 @@
 {
   "name": "mutation-map",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@9.1.1",
   "description": "耐药突变 SVG 图表",
   "author": "Nigi Wen <1321994008@qq.com>",
